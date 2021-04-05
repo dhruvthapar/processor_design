@@ -1,0 +1,14 @@
+1518598946 /users/cosic/dthapar/Documents/CA_project/processor_design/RTL/pc.v
+1518598944 /users/cosic/dthapar/Documents/CA_project/processor_design/RTL/branch_unit.v
+1615835454 /users/cosic/dthapar/Documents/CA_project/processor_design/RTL/control_unit.v
+1617051611 /users/cosic/dthapar/Documents/CA_project/processor_design/RTL/cpu.v
+1556288864 /users/cosic/dthapar/Documents/CA_project/processor_design/RTL/sram.v
+1520244790 /users/cosic/dthapar/Documents/CA_project/processor_design/RTL/register_file.v
+1617048247 /users/cosic/dthapar/Documents/CA_project/processor_design/RTL/saed32sram_mod.v
+1617047497 /users/cosic/dthapar/Documents/CA_project/processor_design/RTL/cpu_tb.v
+1520252914 /users/cosic/dthapar/Documents/CA_project/processor_design/RTL/reg_arstn_en.v
+1615833589 /users/cosic/dthapar/Documents/CA_project/processor_design/RTL/alu.v
+1518598692 /users/cosic/dthapar/Documents/CA_project/processor_design/RTL/mux_2.v
+1520252894 /users/cosic/dthapar/Documents/CA_project/processor_design/RTL/reg_arstn.v
+1615839876 /users/cosic/dthapar/Documents/CA_project/processor_design/RTL/alu_control.v
+1617022400 /users/cosic/dthapar/Documents/CA_project/processor_design/RTL/cpu_new.v
